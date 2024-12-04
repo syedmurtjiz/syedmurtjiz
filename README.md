@@ -23,7 +23,7 @@ I specialize in building strong, interactive, and responsive front-end interface
 
 ## 📈 GitHub Stats
 
-![Syed Murtjiz GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=devibbi&theme=vue-dark&hide_border=true)
+![Syed Murtjiz GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=syedmurtjiz&theme=dark)
 
 ## 📝 Latest Blog Posts
 
