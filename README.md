@@ -29,8 +29,8 @@ I specialize in building strong, interactive, and responsive front-end interface
 ## 📝 Latest Blog Posts
 
 - [How I created A Spotify Clone App using React JS](https://dev.to/syedmurtjiz/i-made-spotify-clients-using-reactjs-2ljd)
-
-
+- [How I made a desktop application for my portfolio using electronJS](https://dev.to/syedmurtjiz/how-i-made-a-desktop-application-for-my-portfolio-using-electron-js-llb)
+- [SAAS in 2024](https://dev.to/syedmurtjiz/sass-in-2024-2cf7)
 ## 📫 Get in Touch
 
 - **LinkedIn:** [Syed Murtjiz Naqvi](https://www.linkedin.com/in/syed-murtjiz-naqvi-190035185/)
