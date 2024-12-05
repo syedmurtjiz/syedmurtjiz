@@ -10,7 +10,7 @@ I’m a skilled Front-End Developer with over 1 years of experience in creating 
 - 🐦 **X (twitter):** [Murtjiz_Naqvi](https://x.com/Murtjiz_Naqvi)
 - 🛠️ **Skills:**
   - **Front-End:** HTML, CSS, JavaScript, Bootstrap, ReactJS
-  - **Back-End:** ExpressJS , NodeJS **+** MongoDb .
+  - **Back-End:** ExpressJS , NodeJS **+** MongoDB
   
 ## 💼 Professional Experience
 
